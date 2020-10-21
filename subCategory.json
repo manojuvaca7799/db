@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "5f75f16d54e209275cb8399a"
+  },
+  "name": "men ",
+  "categoryId": "5f54c2d9a35ed4430c1561e5"
+},{
+  "_id": {
+    "$oid": "5f75f19754e209275cb8399b"
+  },
+  "name": "women ",
+  "categoryId": "5f54c2d9a35ed4430c1561e5"
+},{
+  "_id": {
+    "$oid": "5f80513a60170e3dc4b4c80b"
+  },
+  "name": "green vegatables ",
+  "categoryId": "5f7ee83d54e209275cb839a6"
+},{
+  "_id": {
+    "$oid": "5f8154bf60170e3dc4b4c80f"
+  },
+  "name": "leafy vegatables ",
+  "categoryId": "5f7ee83d54e209275cb839a6"
+},{
+  "_id": {
+    "$oid": "5f84328a6a8de234109df20e"
+  },
+  "name": "Mens",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f8432946a8de234109df20f"
+  },
+  "name": "Women",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f856d706a8de206204c0172"
+  },
+  "name": "Vegetable",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f856d7e6a8de206204c0173"
+  },
+  "name": "Fruit",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f882610b6d3e000040ad9e5"
+  },
+  "name": "kids",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f882d9ceeeb6c0004b252ea"
+  },
+  "name": "adults",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f882f17eeeb6c0004b252eb"
+  },
+  "name": "traditional",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f883269eeeb6c0004b252ef"
+  },
+  "name": "Organic",
+  "categoryId": "5f88324deeeb6c0004b252ee"
+},{
+  "_id": {
+    "$oid": "5f88328beeeb6c0004b252f0"
+  },
+  "name": "General",
+  "categoryId": "5f88324deeeb6c0004b252ee"
+},{
+  "_id": {
+    "$oid": "5f89ac0c7cd091000492d9da"
+  },
+  "name": "Child",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f89c0a517e8bb0004c9565e"
+  },
+  "name": "mobiles",
+  "categoryId": "5f89c08e17e8bb0004c9565d"
+},{
+  "_id": {
+    "$oid": "5f8a17ec3f4605000403a5dc"
+  },
+  "name": "Bata",
+  "categoryId": "5f8a17d83f4605000403a5db"
+},{
+  "_id": {
+    "$oid": "5f8a18be3f4605000403a5df"
+  },
+  "name": "Men",
+  "categoryId": "5f8a18a33f4605000403a5de"
+},{
+  "_id": {
+    "$oid": "5f8aa1373c45c10004f2650b"
+  },
+  "name": "circuit",
+  "categoryId": "5f89b93017e8bb0004c9565c"
+}]

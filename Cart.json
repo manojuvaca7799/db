@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5f7abd6554e209275cb839a2"
+  },
+  "name": "short",
+  "price": "500",
+  "stockId": "5f79ab3e6a8de27abcaa9842",
+  "randomNumber": 239508,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "5f7ac77654e209275cb839a4"
+  },
+  "name": "short",
+  "price": "500",
+  "stockId": "5f79ab3e6a8de27abcaa9842",
+  "randomNumber": 239508,
+  "quantity": 12
+}]

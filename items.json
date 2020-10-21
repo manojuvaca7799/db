@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "5f76fd4154e209275cb8399f"
+  },
+  "name": "fphant",
+  "subCategoryId": "5f75f19754e209275cb8399b",
+  "categoryId": "5f54c2d9a35ed4430c1561e5"
+},{
+  "_id": {
+    "$oid": "5f8144e460170e3dc4b4c80d"
+  },
+  "name": "g brinjal",
+  "subCategoryId": "5f80513a60170e3dc4b4c80b",
+  "categoryId": "5f7ee83d54e209275cb839a6"
+},{
+  "_id": {
+    "$oid": "5f8153f660170e3dc4b4c80e"
+  },
+  "name": "l brinjal",
+  "subCategoryId": "5f8154bf60170e3dc4b4c80f",
+  "categoryId": "5f7ee83d54e209275cb839a6"
+},{
+  "_id": {
+    "$oid": "5f8432a06a8de234109df210"
+  },
+  "name": "Shirts",
+  "subCategoryId": "5f84328a6a8de234109df20e",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f8432aa6a8de234109df211"
+  },
+  "name": "Pants",
+  "subCategoryId": "5f84328a6a8de234109df20e",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f8432b56a8de234109df212"
+  },
+  "name": "Kurta",
+  "subCategoryId": "5f8432946a8de234109df20f",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f8432bf6a8de234109df213"
+  },
+  "name": "Punjabi Dress",
+  "subCategoryId": "5f8432946a8de234109df20f",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f856d896a8de206204c0174"
+  },
+  "name": "Brinjals",
+  "subCategoryId": "5f856d706a8de206204c0172",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f856d986a8de206204c0175"
+  },
+  "name": "Tomato",
+  "subCategoryId": "5f856d706a8de206204c0172",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f856da66a8de206204c0176"
+  },
+  "name": "Apple",
+  "subCategoryId": "5f856d7e6a8de206204c0173",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f856daf6a8de206204c0177"
+  },
+  "name": "Orange",
+  "subCategoryId": "5f856d7e6a8de206204c0173",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f889a5f562c200004262189"
+  },
+  "name": "Shorts",
+  "subCategoryId": "5f882610b6d3e000040ad9e5",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f889ae1562c20000426218a"
+  },
+  "name": "Pine Apple",
+  "subCategoryId": "5f882525b6d3e000040ad9e4",
+  "categoryId": "5f856d646a8de206204c0171"
+},{
+  "_id": {
+    "$oid": "5f89e2eafab2db0004c06e54"
+  },
+  "name": "pant",
+  "subCategoryId": "5f882d9ceeeb6c0004b252ea",
+  "categoryId": "5f8432806a8de234109df20d"
+},{
+  "_id": {
+    "$oid": "5f8a18cd3f4605000403a5e0"
+  },
+  "name": "Pants",
+  "subCategoryId": "5f8a18be3f4605000403a5df",
+  "categoryId": "5f8a18a33f4605000403a5de"
+}]

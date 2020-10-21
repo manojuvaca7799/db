@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "5f54c2d9a35ed4430c1561e5"
+  },
+  "name": " clothes"
+},{
+  "_id": {
+    "$oid": "5f7ee83d54e209275cb839a6"
+  },
+  "name": " vegatables"
+},{
+  "_id": {
+    "$oid": "5f8432806a8de234109df20d"
+  },
+  "name": "clothes"
+},{
+  "_id": {
+    "$oid": "5f856d646a8de206204c0171"
+  },
+  "name": "Foods"
+},{
+  "_id": {
+    "$oid": "5f88324deeeb6c0004b252ee"
+  },
+  "name": "Fruits"
+},{
+  "_id": {
+    "$oid": "5f89b3cb17e8bb0004c95657"
+  },
+  "name": "Foot wear "
+},{
+  "_id": {
+    "$oid": "5f89b93017e8bb0004c9565c"
+  },
+  "name": "laptop"
+},{
+  "_id": {
+    "$oid": "5f89c08e17e8bb0004c9565d"
+  },
+  "name": "laptops"
+},{
+  "_id": {
+    "$oid": "5f8a17d83f4605000403a5db"
+  },
+  "name": "Footwear"
+},{
+  "_id": {
+    "$oid": "5f8a18a33f4605000403a5de"
+  },
+  "name": "Clothes"
+}]

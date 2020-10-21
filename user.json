@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5f4f7908043bae39942dd460"
+  },
+  "name": "lalith",
+  "username": "lalith",
+  "email": "",
+  "password": "$2a$10$6w/xUdWDkSfEz0AOmagOc.EtFIqM4IUHQX9KlHuIg5grMFgJOuU3a",
+  "role": "merchant",
+  "isActive": true,
+  "categoryAccess": [
+    "5f54c2d9a35ed4430c1561e5",
+    "5f7ee83d54e209275cb839a6"
+  ]
+},{
+  "_id": {
+    "$oid": "5f732c9554e209275cb8398f"
+  },
+  "name": "manoj",
+  "username": "789654455",
+  "email": "",
+  "password": "$2a$10$6w/xUdWDkSfEz0AOmagOc.EtFIqM4IUHQX9KlHuIg5grMFgJOuU3a",
+  "isActive": true,
+  "categoryAccess": [
+    "5f54c2d9a35ed4430c1561e5"
+  ]
+},{
+  "_id": {
+    "$oid": "5f84324d6a8de234109df20c"
+  },
+  "name": "Flipkart",
+  "username": "flipkart",
+  "password": "$2a$10$bm2QeMpVa3VKU8Y9FoEEUuHolQXOKEC3nGPl0CGpApY1f0ZxmoPFG",
+  "role": "merchant",
+  "email": "flipkart@gmail.com",
+  "categoryAccess": [
+    "5f8432806a8de234109df20d",
+    "5f856d646a8de206204c0171",
+    "5f89b93017e8bb0004c9565c",
+    "5f8a17d83f4605000403a5db"
+  ]
+},{
+  "_id": {
+    "$oid": "5f88316deeeb6c0004b252ec"
+  },
+  "name": "lalith",
+  "username": "Ebay",
+  "password": "$2a$10$lAvJ8pqp.AQoCAdGP8fD3OQLRaNbx42AIf5aIPnuM3J6fzRits.u2",
+  "role": "merchant",
+  "email": "",
+  "categoryAccess": []
+},{
+  "_id": {
+    "$oid": "5f8831f1eeeb6c0004b252ed"
+  },
+  "name": "amazon",
+  "username": "amazon",
+  "password": "$2a$10$oNsvvi02l/ryB.5/sBUzA.jzVO7H8z/oAdfySHkxM9xB/Ny24W4Cu",
+  "role": "merchant",
+  "email": "amazon@gmail.com",
+  "categoryAccess": [
+    "5f88324deeeb6c0004b252ee"
+  ]
+},{
+  "_id": {
+    "$oid": "5f89a9567cd091000492d9d9"
+  },
+  "name": "Manoj",
+  "username": "manoj",
+  "password": "$2a$10$C0oJKPq6429xCrdxGa3uPOKENRQTLj.VyeDboTf7SKWBSUXiRjqAC",
+  "role": "merchant",
+  "email": "manoj@gmail.com",
+  "categoryAccess": [
+    "5f89b3cb17e8bb0004c95657",
+    "5f89c08e17e8bb0004c9565d"
+  ]
+},{
+  "_id": {
+    "$oid": "5f8a18693f4605000403a5dd"
+  },
+  "name": "Ebay",
+  "username": "ebay",
+  "password": "$2a$10$q011HaGfY6GdpkyxABYb0eUr6OMFk1pdE74l6BPX3xaYPHowQGjzy",
+  "role": "merchant",
+  "email": "ebay",
+  "categoryAccess": [
+    "5f8a18a33f4605000403a5de"
+  ]
+}]

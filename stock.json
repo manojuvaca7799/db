@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "5f7574566a8de231ec291a23"
+  },
+  "name": "phant",
+  "gender": "Male",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6f27b26a8de252502f8d3f",
+  "categoryId": "5f8432806a8de234109df20d",
+  "subCategoryId": "5f75f16d54e209275cb8399a"
+},{
+  "_id": {
+    "$oid": "5f75f23a54e209275cb8399c"
+  },
+  "name": "kurtha",
+  "gender": "female",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6f27b26a8de252502f8d3f",
+  "categoryId": "5f54c2d9a35ed4430c1561e5",
+  "subCategoryId": "5f75f19754e209275cb8399b"
+},{
+  "_id": {
+    "$oid": "5f75f29854e209275cb8399e"
+  },
+  "name": "short",
+  "gender": "female",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f71845b80e68410704182b0",
+  "categoryId": "5f54c2d9a35ed4430c1561e5",
+  "subCategoryId": "5f75f16d54e209275cb8399a"
+},{
+  "_id": {
+    "$oid": "5f7605506a8de24dcc162a97"
+  },
+  "name": "short",
+  "gender": "Male",
+  "size": "medium,small,lare",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f7606bb6a8de24dcc162a98"
+  },
+  "name": "short",
+  "gender": "Male",
+  "size": "medium,large",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f7606cd6a8de24dcc162a99"
+  },
+  "name": "short",
+  "gender": "Male",
+  "size": "medium,large,small",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f787fa56a8de229a812e945"
+  },
+  "name": "phant",
+  "gender": "Male",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6f27b26a8de252502f8d3f",
+  "categoryId": "5f54c2d9a35ed4430c1561e5",
+  "subCategoryId": "5f75f16d54e209275cb8399a"
+},{
+  "_id": {
+    "$oid": "5f79ab316a8de27abcaa9841"
+  },
+  "name": "short",
+  "gender": "Male",
+  "size": "medium,large,small",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f79ab3e6a8de27abcaa9842"
+  },
+  "name": "short",
+  "gender": "Male",
+  "size": "medium,large,small",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f79abd46a8de27abcaa9843"
+  },
+  "name": "boxer",
+  "gender": "Male",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f7ac2e86a8de260100727a1"
+  },
+  "name": "t-Shirt",
+  "gender": "Male",
+  "size": "small",
+  "price": "600",
+  "color": "blue",
+  "itemsId": "5f6dd08d6a8de24a90c2d65b",
+  "categoryId": "5f6dd08d6a8de24a90c2d555",
+  "subCategoryId": "5f6dd08d6a8de24a90c2d788"
+},{
+  "_id": {
+    "$oid": "5f86c6506a8de24adc330a9d"
+  },
+  "name": "T-Shirt",
+  "gender": "Male",
+  "size": "small",
+  "price": "600",
+  "color": "blue",
+  "itemsId": "5f8432a06a8de234109df210",
+  "categoryId": "5f8432806a8de234109df20d",
+  "subCategoryId": "5f84328a6a8de234109df20e"
+},{
+  "_id": {
+    "$oid": "5f86c67a6a8de24adc330a9e"
+  },
+  "name": "Black Shirt",
+  "gender": "Male",
+  "size": "small",
+  "price": "600",
+  "color": "blue",
+  "itemsId": "5f8432a06a8de234109df210",
+  "categoryId": "5f8432806a8de234109df20d",
+  "subCategoryId": "5f84328a6a8de234109df20e"
+},{
+  "_id": {
+    "$oid": "5f86c6856a8de24adc330a9f"
+  },
+  "name": "Blue Shirt",
+  "gender": "Male",
+  "size": "small",
+  "price": "700",
+  "color": "blue",
+  "itemsId": "5f8432a06a8de234109df210",
+  "categoryId": "5f8432806a8de234109df20d",
+  "subCategoryId": "5f84328a6a8de234109df20e"
+},{
+  "_id": {
+    "$oid": "5f881a379ee5517d58729f2a"
+  },
+  "name": "gbrinjal",
+  "gender": "gbrinjal",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6f27b26a8de252502f8d3f",
+  "categoryId": "5f7ee83d54e209275cb839a6",
+  "subCategoryId": "5f75f16d54e209275cb8399a"
+},{
+  "_id": {
+    "$oid": "5f8ad4de80bbea24988d6be7"
+  },
+  "name": "dell",
+  "gender": "Male",
+  "size": "medium",
+  "price": "500",
+  "color": "blue",
+  "itemsId": "5f6f27b26a8de252502f8d3f",
+  "categoryId": "5f89b93017e8bb0004c9565c",
+  "subCategoryId": "5f75f16d54e209275cb8399a"
+}]
